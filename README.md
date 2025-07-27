@@ -51,8 +51,12 @@ python recognition.py
 
 ## 🔍Tính năng
 - 📷 Phát hiện khuôn mặt theo thời gian thực bằng Haar Cascade
-
 - 😊 Nhận diện cảm xúc từ biểu cảm khuôn mặt
-
 - ⚙️ Dễ tùy biến và mở rộng mô hình
+
+---
+
+## 📸 Ví dụ kết quả
+
+
 
