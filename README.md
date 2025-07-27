@@ -6,6 +6,7 @@ Dự án này sử dụng OpenCV và mô hình học sâu để nhận diện bi
 
 ## 📁 Cấu trúc thư mục
 
+```
 Emotion-detection/
 ├── haarcascade_frontalface_default.xml   # Mô hình Haar Cascade phát hiện khuôn mặt
 ├── recognition.py                        # Mã chạy nhận diện cảm xúc theo thời gian thực
@@ -14,7 +15,7 @@ Emotion-detection/
 ├── test/                                 # Dữ liệu kiểm thử
 ├── trainer/                              # Mô hình đã huấn luyện
 └── README.md                             # Tệp mô tả dự án
-
+```
 ---
 
 ## 🛠️ Yêu cầu cài đặt
