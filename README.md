@@ -34,3 +34,4 @@ pip install opencv-python pillow numpy
 
 ## 🚀 How to Run
 
+** 🔧 1. Huấn luyện mô hình
