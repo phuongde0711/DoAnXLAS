@@ -1,10 +1,10 @@
-# Emotion Detection from Facial Expressions using Deep Learning
+# 😄 Nhận diện cảm xúc từ khuôn mặt sử dụng học sâu
 
-This project detects human emotions from facial expressions in real-time using OpenCV and a deep learning model. The system first detects faces using Haar Cascade, then classifies emotions such as **Happy**, **Sad**, **Angry**, **Surprised**, etc.
+Dự án này sử dụng OpenCV và mô hình học sâu để nhận diện biểu cảm khuôn mặt theo thời gian thực và phân loại cảm xúc như **Vui**, **Buồn**, **Tức giận**, **Ngạc nhiên**, v.v.
 
 ---
 
-## 📦 Folder Structure
+## 📁 Cấu trúc thư mục
 
 Emotion-detection/
 │
@@ -15,7 +15,6 @@ Emotion-detection/
 ├── test/ # Testing dataset
 ├── trainer/ # Saved trained model
 └── README.md # This file
-
 
 ---
 
@@ -31,3 +30,7 @@ Install dependencies:
 
 ```bash
 pip install opencv-python pillow numpy
+```
+
+## 🚀 How to Run
+
