@@ -38,7 +38,7 @@ pip install opencv-python pillow numpy
 🔧 1. Huấn luyện mô hình
 
 Bước 1: Đặt ảnh khuôn mặt vào thư mục train/, mỗi thư mục con là một loại cảm xúc
-
+<img width="216" height="228" alt="image" src="https://github.com/user-attachments/assets/7b9fb77f-e0a7-4b5b-bc01-d144007cd015" />
 Bước 2: Chạy lệnh huấn luyện
 ```bash
 python training.py
@@ -59,6 +59,10 @@ python recognition.py
 ---
 
 ## 📸 Ví dụ kết quả
+<img width="793" height="594" alt="image" src="https://github.com/user-attachments/assets/90a43065-6c73-4881-8c74-70e94171f393" />
+<img width="798" height="599" alt="image" src="https://github.com/user-attachments/assets/932caeab-4702-4183-9a24-13ada8402730" />
+<img width="793" height="598" alt="image" src="https://github.com/user-attachments/assets/6aed2797-6c7f-4558-b3c2-c738ccdb23b9" />
+
 
 
 
