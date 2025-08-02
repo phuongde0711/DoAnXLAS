@@ -29,7 +29,7 @@ Emotion-detection/
 Cài đặt thư viện:
 
 ```bash
-pip install opencv-python pillow numpy
+pip install opencv-python pillow numpy tensorflow
 ```
 
 ---
